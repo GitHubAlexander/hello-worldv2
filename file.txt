@@ -1,1 +1,1 @@
-Nothing more than a normal file
+version 1.0.0
